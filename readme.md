@@ -6,8 +6,9 @@
 
 | Date        | Xitlaly | Sarah |
 |-------------|-----------|-----------|
-| Jul 24      |           |           |
+| Jul 24      |     x     |           |
 | Aug 2       |           |           |
 | Aug 5       |           |           |
+
 
 *Instructions: Please place an 'X' in the cell under your name corresponding to the dates you attend class.*
